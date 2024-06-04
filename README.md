@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Roi-XLV
-- 👀 I'm a video game creator
-- 📫 How to reach me - https://www.xlvgames.com/
+👋 Hi, I’m @Roi-XLV
+🎮 Passionate video game creator
+✨ Developing with Unity and C#
+🌌 Skilled in Python, C#, and SQL
+📫 Reach me at xlvgames.com
 
 <!---
 Roi-XLV/Roi-XLV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
